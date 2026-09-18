@@ -1,0 +1,6 @@
+*.log
+data/
+certs/
+.env
+.DS_Store
+Thumbs.db
